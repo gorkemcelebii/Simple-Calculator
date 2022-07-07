@@ -1,2 +1,3 @@
 # Simple-Calculator
-Simple Calculator with android studio
+very simple calculator to improve my android development
+
